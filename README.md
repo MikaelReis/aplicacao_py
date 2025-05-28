@@ -11,15 +11,6 @@ Este projeto é uma aplicação em Python desenvolvida para gerenciar um catálo
     Recebimento e cálculo de avaliações.
 
 A aplicação utiliza conceitos de Programação Orientada a Objetos (POO) como classes, métodos, atributos e encapsulamento.
-📂 Estrutura do Projeto
-
-aplicacao_py/
-├── modelos/
-│   ├── __init__.py
-│   ├── avaliacao.py
-│   └── carros.py
-├── app.py
-└── README.md
 
 🚀 Funcionalidades
 
